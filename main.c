@@ -7,3 +7,135 @@ int main()
   }
   return 0;
 }
+
+int main(void)
+{
+    printf("hello, holberton\n");
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
+}int main(void)
+{
+    printf("hello, holberton\n");
+}
